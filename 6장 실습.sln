@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "downcating", "downcating\do
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadparameter", "Threadparameter\Threadparameter.csproj", "{EA06EC31-BFA6-4215-A060-459EDD22DBFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-20", "6-20\6-20.csproj", "{AA2037FD-9891-471B-9F77-A7F89396A6EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{EA06EC31-BFA6-4215-A060-459EDD22DBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA06EC31-BFA6-4215-A060-459EDD22DBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA06EC31-BFA6-4215-A060-459EDD22DBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
