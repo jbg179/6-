@@ -20,11 +20,6 @@ class ThreadStateApp
         Console.WriteLine("Step 1: " + t.ThreadState);
         t.Start(); Thread.Sleep(100);
         Console.WriteLine("Step 2: " + t.ThreadState);
-        t.Suspend(); Thread.Sleep(100);
-        Console.WriteLine("Step 3: " + t.ThreadState);
-        t.Resume(); Thread.Sleep(100);
-        Console.WriteLine("Step 4: " + t.ThreadState);
-        t.Abort(); Thread.Sleep(100);
-        Console.WriteLine("Step 5: " + t.ThreadState);
+        
     }
 }
