@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threadparameter", "Threadpa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-20", "6-20\6-20.csproj", "{AA2037FD-9891-471B-9F77-A7F89396A6EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-21", "6-21\6-21.csproj", "{CBA00EBF-5918-423A-94B4-FE73B19BB650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2037FD-9891-471B-9F77-A7F89396A6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA00EBF-5918-423A-94B4-FE73B19BB650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA00EBF-5918-423A-94B4-FE73B19BB650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA00EBF-5918-423A-94B4-FE73B19BB650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA00EBF-5918-423A-94B4-FE73B19BB650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
